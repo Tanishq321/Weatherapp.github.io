@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    background-image: url('https://source.unsplash.com/720x600/?Weather,Climate');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    }
+    .btn{
+        outline:none;
+    }
+    .fa-search{
+    position: relative;
+    top:0px;
+    font-size: 22px;
+    color:white;
+    transform:rotate(90deg);
+    }
+    .con{
+    padding:10px;
+    width: 80%;
+    height:80%;
+    filter:lur;
+    background-image: url('https://source.unsplash.com/720x600/?Climate,Weather');
+    border-radius:20px;
+    position: absolute;
+    background-size: cover;
+    top:0;
+    left:0;
+    right: 0px;
+    bottom:0;
+    margin:auto;
+    color:white;
+    text-align:center;
+    }
+    .inp{
+    height: 90px;
+    width: 90%;
+    top: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    outline:none;
+    position: relative;
+    right:20px;
+    padding-left:10px;
+    font-size: 80px;
+    }
+    .btn{
+    border:none;
+    height:90px;
+    width:60px;
+    position:absolute;
+    right:10px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background:crimson;
+    top:30px;
+    right:15px;
+    }
+    .im{
+    transform:scale(1.2);
+    width: 50%;
+    }
+    .tp{
+    width: 100%;
+    font-size: 200px;
+    color: white;
+    }
+    .dis{
+    font-size: 160px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    }
+    .ico{
+    width:100%;
+    text-align:center;
+    color: white;
+    }
+    .ctco{
+    font-size: 130px;
+    color: white;
+    }
+    .mx{
+    font-size: 100px;
+    color: white;
+    }
+    a{
+        text-decoration:none;
+        color:white;
+    }
