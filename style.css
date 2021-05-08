@@ -36,7 +36,7 @@ body{
     text-align:center;
     }
     .inp{
-    border-radius: 55px;
+    border-radius: 65px;
     padding: 30px;
     background: #f0f3ff;
     align-items: center;
@@ -58,8 +58,8 @@ body{
     width:60px;
     position:absolute;
     right:50px;
-    border-top-right-radius: 55px;
-    border-bottom-right-radius: 55px;
+    border-top-right-radius: 65px;
+    border-bottom-right-radius: 65px;
     background:crimson;
     top:10px;
     right: 0;
