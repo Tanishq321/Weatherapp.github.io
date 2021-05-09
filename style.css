@@ -54,6 +54,7 @@ body{
 
     .btn{
     border:none;
+    top:20px;
     height: 120px;
     width: 90px;
     padding: 30px;
@@ -61,7 +62,6 @@ body{
     right: 50px;
     border-radius: 65px;
     background:#f0f3ff;
-    top:20px;
     right: 0;
     }
     .im{
