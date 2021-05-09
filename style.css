@@ -42,7 +42,7 @@ body{
     align-items: center;
     font-size: 60px;
     width: 90%;
-    height: 80%;
+    height: 100%;
     top: 10px;
     position: relative;
     outline: none;
@@ -54,7 +54,7 @@ body{
 
     .btn{
     border:none;
-    height: 10px;
+    height: 110px;
     width:60px;
     position:absolute;
     right:50px;
