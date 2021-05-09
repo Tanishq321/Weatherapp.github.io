@@ -54,12 +54,11 @@ body{
 
     .btn{
     border:none;
-    top:25px;
+    top: 20px;
     height: 130px;
     width: 90px;
     padding: 30px;
     position: absolute;
-    right: 70px;
     border-radius: 65px;
     background:#f0f3ff;
     right: 0;
