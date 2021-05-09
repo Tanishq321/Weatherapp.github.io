@@ -55,10 +55,10 @@ body{
     .btn{
     border:none;
     height: 110px;
-    width:60px;
+    width: 80px;
     padding: 30px;
-    position:absolute;
-    right:50px;
+    position: absolute;
+    right: 50px;
     border-right-radius: 65px;
     background:#f0f3ff;
     top:20px;
