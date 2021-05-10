@@ -59,7 +59,7 @@ body{
     padding: 30px;
     align-items: center;
     position: absolute;
-    border-radius: 0 65px 0 65px;
+    border-radius: 0 65px 65px 0;
     background: red;
     right: 10px;
     }
