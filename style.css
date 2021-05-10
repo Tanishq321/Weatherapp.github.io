@@ -40,7 +40,7 @@ body{
     background: #f0f3ff;
     align-items: center;
     font-size: 40px;
-    width: 80%;
+    width: 90%;
     height: 100px;
     top: 10px;
     position: relative;
@@ -59,7 +59,7 @@ body{
     padding: 30px;
     align-items: center;
     position: absolute;
-    border-radius: 65px;
+    border-radius: 65px 0 0 0;
     background: red;
     right: 10px;
     }
