@@ -15,7 +15,7 @@ body{
     position: relative;
     top: 0px;
     font-size: 25px;
-    color:red;
+    color: #f0f3ff;
     transform:rotate(90deg);
     }
     .con{
@@ -60,7 +60,7 @@ body{
     align-items: center;
     position: absolute;
     border-radius: 65px;
-    background: #f0f3ff;
+    background: red;
     right: 10px;
     }
     .im{
