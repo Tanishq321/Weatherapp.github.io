@@ -40,7 +40,7 @@ body{
     background: #f0f3ff;
     align-items: center;
     font-size: 40px;
-    width: 100%;
+    width: 80%;
     height: 100px;
     top: 10px;
     position: relative;
@@ -54,7 +54,7 @@ body{
     .btn{
     border: none;
     top: 20px;
-    height: 60px;
+    height: 100px;
     width: 120px;
     padding: 30px;
     align-items: center;
